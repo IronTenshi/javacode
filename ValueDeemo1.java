@@ -7,5 +7,7 @@ public class ValueDeemo1
         System.out.println('从');
         System.out.println(1);
         System.out.println(true);
+        System.err.println("asd" + '\t' + "name");
+        //'\t' can fix to add length is 8;
     }
 }
