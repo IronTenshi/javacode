@@ -12,5 +12,6 @@ public class Demmo4 {
         System.out.println(result);
         System.out.println(a);
         System.out.println(b);
+        
     }
 }
